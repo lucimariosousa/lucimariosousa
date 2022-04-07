@@ -1,7 +1,7 @@
 # Portfolio
 
 Hello,
-I'm a brazilian physicist and data scientist. I have a bachelor and master degree in physics. Currently i'm working on some data science projects, bellow i detail some of the main projects in the repositories:
+I'm a brazilian physicist and data scientist. I have a bachelor and master degree in physics. Currently i'm working on some data science projects. My curriculum can be found [here](https://github.com/lucimariosousa/curriculum). Bellow i detail some of the main projects in the repositories:
 
 - [Credit modelling with machine learning](https://github.com/lucimariosousa/Credit-modelling-with-machine-learning): In this project we perform a credit modelling with machine learning, which is a common data science problem in the finance sector. The datasaet consists on informations of a group of individuals who took a loan from a bank. The problem consists in the following: Considering the investor's point of view, we want to avoid people that will default their loan. Create a machine learning model to allow a conservative investor to avoid people that will default on their loans. This project is separated into 3 parts: Data Cleaning, Feature Engineering, Modelling.
 - [Credit Risk Classification - Logistic Regression, SVM and Deeplearning](https://github.com/lucimariosousa/Credit-Risk-Classification-Logistic-Regression-SVM-and-Deeplearning): In this project we apply the Logistic Regression, Support Vector Machines and Multilayer Perceptron algorithms to classify the credit risk of the credit [database](https://www.kaggle.com/datasets/laotse/credit-risk-dataset). The problem consists in the classification of the clients as 'high risk' or 'low risk' to take a loan. 
